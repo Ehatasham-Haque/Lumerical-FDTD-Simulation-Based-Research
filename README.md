@@ -14,9 +14,13 @@ This document is used as a hands-on simulation exercise: students are asked to r
 > 
 📚 Collected Research Papers (Third-Party)
 Published papers included for reference and simulation benchmarking, alongside the presentation and skill test above.
-File	Citation
+
+File	Citation:
+
 `01\_2023\_Komisar.pdf`<br>`01\_2023\_Komisar\_supplement.pdf`	Komisar, D., Kumar, S., Kan, Y., Meng, C., Kulikova, L. F., Davydov, V. A., Agafonov, V. N., & Bozhevolnyi, S. I. (2023). Multiple Channelling Single-Photon Emission with Scattering Holography Designed Metasurfaces. Nature Communications, 14, 6253. https://doi.org/10.1038/s41467-023-42046-3
+
 `02\_2026\_Farmani.pdf`	Farmani, A., & Omidniaee, A. (2026). FDTD-Based Design of High Quality Factor Quantum Dot Photonic Crystal Nanolaser for Next-Generation Nanotechnologies. Scientific Reports, 16, 6985. https://doi.org/10.1038/s41598-026-36019-x
+
 `03\_2024\_Yang.pdf`<br>`03\_2024\_Yang\_supplement.pdf`	Yang, J., Chen, Y., Rao, Z., Zheng, Z., Song, C., Chen, Y., Xiong, K., Chen, P., Zhang, C., Wu, W., Yu, Y., & Yu, S. (2024). Tunable Quantum Dots in Monolithic Fabry-Perot Microcavities for High-Performance Single-Photon Sources. Light: Science & Applications, 13, 33. https://doi.org/10.1038/s41377-024-01384-7
 
 🛠 Simulation Focus
