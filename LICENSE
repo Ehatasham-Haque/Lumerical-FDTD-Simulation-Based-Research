@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+THIRD-PARTY CONTENT DISCLAIMER:
+The MIT License above applies to the repository structure and the original presentation file ("Introduction to FDTD.pptx") authored by Ehatasham Haque.
+
+This repository also contains third-party academic content in PDF format:
+- "Sim Skill Test.pdf", an excerpt of the Supplementary Information from Kharintsev et al., "Photon Momentum Enabled Light Absorption in Silicon," ACS Nano (2024).
+- A selection of research papers and their supplementary materials: Komisar et al. (2023, Nature Communications), Farmani & Omidniaee (2026, Scientific Reports), and Yang et al. (2024, Light: Science & Applications).
+
+These documents are the intellectual property of their respective authors and original publishers (e.g., American Chemical Society, Springer Nature). This license does NOT grant rights to redistribute or modify those specific third-party files. They are included here for non-commercial educational and personal research purposes only.
