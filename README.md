@@ -3,11 +3,11 @@ This repository is a curated collection of resources for learning and practicing
 📂 Repository Contents
 🌟 Original Work
 `Introduction to FDTD.pptx` — Mastering Lumerical FDTD: From Theory to Simulation, by Ehatasham Haque.
-This presentation provides a foundational overview of FDTD theory (Yee grid, time marching, numerical stability) and walks through a practical simulation workflow in Lumerical FDTD — geometry definition, source injection, monitor setup, boundary conditions (PML, periodic, PEC/PMC), and result analysis — closing with a pre-run checklist.
+This presentation provides a foundational overview of FDTD theory (Yee grid, time marching, numerical stability) and walks through a practical simulation workflow in Lumerical FDTD (geometry definition, source injection, monitor setup, boundary conditions, and result analysis), closing with a pre-run checklist.
 🧪 Simulation Skill Test
 `Sim Skill Test.pdf` — An excerpt of the Supplementary Information from:
 > Kharintsev, S. S., Noskov, A. I., Battalova, E. I., Katrivas, L., Kotlyar, A. B., Merham, J. G., Potma, E. O., Apkarian, V. A., \& Fishman, D. A. (2024). Photon Momentum Enabled Light Absorption in Silicon. \*ACS Nano\*, \*18\*(39), 26532–26540. https://doi.org/10.1021/acsnano.4c02656
-This document is used as a hands-on simulation exercise: students are asked to reproduce the FDTD/FEM field-distribution simulation in Figure SF4 (through panel b) — a Si tip apex over a 2 nm gold bump under focused continuous-wave illumination — in Lumerical FDTD, before comparing their result against the published field profile.
+This document is used as a hands-on simulation exercise: students are asked to reproduce the FDTD/FEM field-distribution simulation in Figure SF4 (through panel b), a Si tip apex over a 2 nm gold bump under focused continuous-wave illumination, in Lumerical FDTD, before comparing their result against the published field profile.
 📚 Collected Research Papers (Third-Party)
 Published papers included for reference and simulation benchmarking, alongside the presentation and skill test above.
 File	Citation
